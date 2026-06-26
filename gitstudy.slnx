@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gitstudy/gitstudy.vcxproj" Id="e55183c5-655b-4630-9c0d-f8b18194e81d" />
+</Solution>
